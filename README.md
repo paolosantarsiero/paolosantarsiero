@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on react native apps, android native and web application with cake php.
 - 🌱 I’m currently learning machine learning, deep learning and IA.
 - 👯 I’m looking to collaborate on Atlas consulting s.r.l.
 - 📫 How to reach me: send me an email on paolosantarsiero9@gmail.com
 
-### Publish Mobile app developed
+## Mobile app developed
+### Published
 #### Crearch
 - Android: https://play.google.com/store/apps/details?id=it.sm.ps.incoerenze.crearch
 - iOS: https://apps.apple.com/us/app/crearch/id1569054662
@@ -21,6 +22,7 @@
 #### BiTS
 - Android: https://play.google.com/store/apps/details?id=it.arrowsoft.projects.thirdparty.getintouch.it.dibiasi.dibiasiitgit.kip
 - iOS: https://apps.apple.com/us/app/bits/id1542461881
+### Not yet published
 #### CleanUp:
 - Android: ready for release, waiting go of owner
 - iOS: ready for release, waiting go of owner
