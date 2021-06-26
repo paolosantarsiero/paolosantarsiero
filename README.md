@@ -4,3 +4,7 @@
 - 🌱 I’m currently learning machine learning, deep learning and IA.
 - 👯 I’m looking to collaborate on Atlas consulting s.r.l.
 - 📫 How to reach me: send me an email on paolosantarsiero9@gmail.com
+
+### Mobile app developed
+- Crearch
+  -
